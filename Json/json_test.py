@@ -2,7 +2,7 @@
 
 import json
 
-with open("okidata.json", "r") as jsonfile:
+with open("./okidata.json", "r") as jsonfile:
     printerdata = json.load(jsonfile)
 
 for group in printerdata["Device"]["BreadcrumbGroups"]:
