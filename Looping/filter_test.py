@@ -6,3 +6,4 @@ def more_than_15(x):
 data = [3, 17, 32, 12, 54, 3, 2, 1]
 
 print(list(filter(more_than_15, data)))
+    
