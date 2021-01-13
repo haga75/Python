@@ -7,7 +7,7 @@
 *.userosscache
 *.sln.docstates
 
-# Visual Studio Code folders
+# Visual Studio folders
 .vs
 .vscode
 
