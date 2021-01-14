@@ -7,9 +7,12 @@
 *.userosscache
 *.sln.docstates
 
-# Visual Studio Code folders
+# Visual Studio folders
 .vs
 .vscode
+
+# Visual Studio Code workspace (different paths for different OS)
+*.code-workspace
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
