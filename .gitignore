@@ -7,9 +7,8 @@
 *.userosscache
 *.sln.docstates
 
-# Visual Studio folders
-.vs
-.vscode
+# Visual Studio Code folder
+.vscode/
 
 # Visual Studio Code workspace (different paths for different OS)
 *.code-workspace
