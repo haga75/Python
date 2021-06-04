@@ -1,7 +1,7 @@
 from itertools import permutations
 
-txt = permutations('1X2')
+text = permutations('1X2')
 #print(txt)
 
-for char in txt:
+for char in text:
     print(char)
